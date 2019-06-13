@@ -1,4 +1,4 @@
-workspace(name = "com_github_Xjs_test_gazelle_fail")
+workspace(name = "com_github_Xjs_test_gazelle_mod_vendor")
 
 load("@bazel_tools//tools/build_defs/repo:http.bzl", "http_archive")
 
